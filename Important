@@ -1,0 +1,5 @@
+Important Note :-
+requirements 
+1--> Sudo apt-get install python3
+2--> Sudo pip3 install google
+3--> Sudo pip3 install pyqrcode 
